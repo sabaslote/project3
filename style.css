@@ -1,0 +1,91 @@
+body{
+  background-color: rgb(88, 37, 91);
+  color: rgb(255, 255, 255);
+  font-family: sans-serif;
+  text-align: center;
+}
+ul, li {
+  list-style: none;
+}
+h1, h3 {
+  text-align: center;
+  position: relative;
+}
+h2 {
+  text-align: center;
+  text-decoration: underline;
+}
+.navigation {
+  text-align: center;
+  position: relative;
+  background-color: rgb(0,128,128);
+  font-size: 150%;
+}
+.navigation li {
+  display: inline-block;
+}
+.navigation a:hover {
+  background-color: rgb(63, 26, 248);
+  text-decoration: underline overline;
+}
+.navigation a {
+  text-decoration: solid;
+  color: rgb(255, 255, 255);
+  display: block;
+  padding: 20px 30px;
+}
+.box {
+  height: 200px;
+  width: 500px;
+  padding: 10px;
+  margin: 50px;
+  border: 10px;
+  background-color: rgba(0,0,255,0.4);
+  margin-left:auto;
+  margin-right: auto;
+}
+.image {
+  border: 10px solid green;
+  width: 20%;
+  height: 20%;
+  position: relative;
+}
+h2 {
+  background-color: rgba(11,156,49, 0.6);
+  font-size: 1.6em;
+}
+.box {
+  border: 20px solid violet;
+}
+.pepper{
+  position: relative;
+  float: left;
+  width: 15%;
+  border: 20px solid magenta;
+}
+.text {
+  position: relative;
+}
+.garlic {
+  position: relative;
+  float: right;
+  width: 15%;
+  height: 250px;
+  border: 20px solid magenta;
+}
+h3 {
+  background-color: rgba(0,0,255,0.4);
+  font-size: 1.2em;
+  line-height: 1.3em;
+}
+iframe {
+  width: 39em;
+  height: 29em;
+  position: relative;
+  border: 20px solid magenta;
+}
+p {
+  margin: 20px 10px;
+  color: #8f8;
+  font-size: 1.0em;
+}
