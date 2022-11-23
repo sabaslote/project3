@@ -109,7 +109,6 @@ p {
 @media screen and (min-width: 600px){
 	section{
 		float: none;
-		width: 20%;
 	}
 	.navigation{
 		text-align: center;
