@@ -109,7 +109,7 @@ p {
 @media screen and (min-width: 600px){
 	section{
 		float: none;
-		width; auto;
+		width: 20%;
 	}
 	.navigation{
 		text-align: center;
@@ -130,7 +130,7 @@ p {
 		border-right: 0.2em solid green;
 		list-style: none;
 		text-align: center;
-		
 	}
+}
 	  
 	
