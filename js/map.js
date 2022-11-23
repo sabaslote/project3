@@ -17,5 +17,9 @@ function initMap() {
     fillOpacity: 0.35,
 	map: map,
   });
+  var infowindow = new google.maps.InfoWindow({
+    content: "<p>This is where origami was first introduced!</p>"
+  });
+  infowindow.open(map, marker);
 }
 window.initMap = initMap;
