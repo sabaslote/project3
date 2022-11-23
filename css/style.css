@@ -89,3 +89,13 @@ p {
   color: #8f8;
   font-size: 1.0em;
 }
+#map {
+  height: 100%;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
