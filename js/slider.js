@@ -1,3 +1,3 @@
-$(document).ready(function(){
-  $('.slideshow').bxSlider();
-});
+    $(document).ready(function(){
+      $('.slider').bxSlider();
+    });
