@@ -90,12 +90,11 @@ p {
   font-size: 1.0em;
 }
 #map {
-  height: 100%;
-}
-
-html,
-body {
-  height: 100%;
-  margin: 0;
-  padding: 0;
+  height: 80%;
+  position: absolute;
+  width: 80%;
+  right: 20%;
+  top: 15%;
+  border: 5px solid green;
+  border-radius: 10px;
 }
