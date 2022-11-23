@@ -1,1 +1,3 @@
-jiojio
+$(document).ready(function(){
+  $('.slideshow').bxSlider();
+});
